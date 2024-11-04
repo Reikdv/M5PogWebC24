@@ -1,0 +1,5 @@
+adres van ing:
+ Bijlmerdreef 106, 1102 CT, Amsterdam.
+ Stad (string/varchar) Straat(string/varchar) Postcode(string/varchar)
+
+We maken adresID aan om de adressen een ID te kunnen geven die bij de gegevens horen.
